@@ -17,9 +17,14 @@ I am a 1st year InfoTech student studying at a certain local State University in
 
 <br>
 
-# 📊 GitHub Stats:
+<h2>📊 GitHub Stats</h2>
 
-[![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=derkandre&theme=radical)](#) [![](https://github-readme-stats.vercel.app/api/top-langs/?username=derkandre&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)](#) 
+<div align="center">
+
+[![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=derkandre&theme=radical)](#) 
+
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=derkandre&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)](#) 
+</div>
 
 <br>
 
