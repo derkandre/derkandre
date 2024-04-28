@@ -1,4 +1,4 @@
-# Hi there 👋! ![](https://visitcount.itsvg.in/api?id=derkandre&icon=3&color=4)
+# Hi there 👋! ![](https://visitcount.itsvg.in/api?id=derkandre&icon=3&color=7)
 
 I am a 1st year InfoTech student studying at a certain local State University in the Philippines. I've dabbled a bit in Programming and Web Development, but let's just say my skills are a tad shaky. But hey, every journey starts with a single step, right? Here's to stumbling through and hopefully finding my footing along the way! 🧑‍💻🍷
 
@@ -21,13 +21,14 @@ I am a 1st year InfoTech student studying at a certain local State University in
 
 | | |
 |---|---|
-| [![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=derkandre&theme=maroongold)](#) | [![](https://github-readme-stats.vercel.app/api/top-langs/?username=derkandre&theme=maroongold&hide_border=false&include_all_commits=true&count_private=false&layout=compact)](#) |
+| [![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=derkandre&theme=radical)](#) | [![](https://github-readme-stats.vercel.app/api/top-langs/?username=derkandre&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)](#) |
 | | |
-| [![](https://github-readme-streak-stats.herokuapp.com/?user=derkandre&theme=maroongold&hide_border=false)](#) | [![](https://github-readme-stats.vercel.app/api?username=derkandre&theme=maroongold&hide_border=false&include_all_commits=true&count_private=false)](#)  |
+| [![](https://github-readme-streak-stats.herokuapp.com/?user=derkandre&theme=radical&hide_border=false)](#) | [![](https://github-readme-stats.vercel.app/api?username=derkandre&theme=radical&hide_border=false&include_all_commits=true&count_private=false)](#)  |
 
 <br>
+
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=derkandre&theme=dark&no-frame=false&no-bg=true&margin-w=4)
+[![trophy](https://github-profile-trophy.vercel.app/?username=derkandre&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **derkandre/derkandre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
