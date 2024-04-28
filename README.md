@@ -25,7 +25,7 @@ I am a 1st year InfoTech student studying at a certain local State University in
 | | |
 | [![](https://github-readme-streak-stats.herokuapp.com/?user=derkandre&theme=maroongold&hide_border=false)](#) | [![](https://github-readme-stats.vercel.app/api?username=derkandre&theme=maroongold&hide_border=false&include_all_commits=true&count_private=false)](#)  |
 
-
+<br>
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=derkandre&theme=dark&no-frame=false&no-bg=true&margin-w=4)
 
